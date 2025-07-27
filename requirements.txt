@@ -7,3 +7,4 @@ ipykernel
 nltk
 wordcloud
 beautifulsoup4
+kneed
